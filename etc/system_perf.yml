@@ -913,7 +913,7 @@ buildvariants:
     - name: bestbuy_agg_WT
     - name: bestbuy_query_WT
     - name: bestbuy_agg_MMAPv1
-    - name: bestbuy_agg_MMAPv1
+    - name: bestbuy_query_MMAPv1
     - name: change_streams_throughput
     - name: change_streams_latency
     - name: snapshot_reads_WT
@@ -953,7 +953,7 @@ buildvariants:
     - name: bestbuy_agg_WT
     - name: bestbuy_query_WT
     - name: bestbuy_agg_MMAPv1
-    - name: bestbuy_agg_MMAPv1
+    - name: bestbuy_query_MMAPv1
 
 - name: linux-3-shard
   display_name: Linux 3-Shard Cluster
@@ -995,7 +995,7 @@ buildvariants:
     - name: bestbuy_agg_WT
     - name: bestbuy_query_WT
     - name: bestbuy_agg_MMAPv1
-    - name: bestbuy_agg_MMAPv1
+    - name: bestbuy_query_MMAPv1
     - name: change_streams_throughput
     - name: change_streams_latency
     - name: change_streams_multi_mongos
@@ -1040,7 +1040,7 @@ buildvariants:
     - name: bestbuy_agg_WT
     - name: bestbuy_query_WT
     - name: bestbuy_agg_MMAPv1
-    - name: bestbuy_agg_MMAPv1
+    - name: bestbuy_query_MMAPv1
     - name: change_streams_throughput
     - name: change_streams_latency
     - name: snapshot_reads_WT
